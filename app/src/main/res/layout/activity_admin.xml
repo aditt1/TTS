@@ -67,7 +67,7 @@
         app:layout_constraintVertical_bias="0.533" />
 
     <ImageButton
-        android:id="@+id/imageButton4"
+        android:id="@+id/btnMatkul"
         android:layout_width="117dp"
         android:layout_height="110dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -79,7 +79,7 @@
         app:srcCompat="@android:drawable/sym_def_app_icon" />
 
     <ImageButton
-        android:id="@+id/imageButton7"
+        android:id="@+id/btnKRS"
         android:layout_width="117dp"
         android:layout_height="110dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -91,7 +91,7 @@
         app:srcCompat="@android:drawable/sym_def_app_icon" />
 
     <ImageButton
-        android:id="@+id/imageButton8"
+        android:id="@+id/btnMhs"
         android:layout_width="117dp"
         android:layout_height="110dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -103,7 +103,7 @@
         app:srcCompat="@android:drawable/sym_def_app_icon" />
 
     <ImageButton
-        android:id="@+id/imageButton5"
+        android:id="@+id/btnDosen"
         android:layout_width="117dp"
         android:layout_height="110dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -115,7 +115,7 @@
         app:srcCompat="@android:drawable/sym_def_app_icon" />
 
     <ImageButton
-        android:id="@+id/imageButton6"
+        android:id="@+id/btnData"
         android:layout_width="117dp"
         android:layout_height="110dp"
         app:layout_constraintBottom_toBottomOf="parent"
